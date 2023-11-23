@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #hero {
+    background-image: url('../assets/images/Vector.png');
+    background-repeat:no-repeat;
+    background-size: cover ;
+    } */
